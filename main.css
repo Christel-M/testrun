@@ -5,3 +5,11 @@
 
 
 /*  Chris insert header and foot settings here */
+header {
+  background: lightblue;
+
+}
+
+footer {
+  background: lightgreen;
+}
