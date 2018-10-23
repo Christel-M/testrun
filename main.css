@@ -1,8 +1,20 @@
 /* Jason insert html settings here */
 
 
-/* Cristal insert font and paragraph setting here *?
+/* Christel insert font and paragraph setting here */
+h1{
+  text-align: center;
+  font-family: sans-serif;
+  color: #004b66;
+}
 
+p{
+  text-align: center;
+  font-family: sans-serif;
+  color: #000000;
+  text-align: center;
+  margin: 2%;
+}
 
 /*  Chris insert header and foot settings here */
 header {
